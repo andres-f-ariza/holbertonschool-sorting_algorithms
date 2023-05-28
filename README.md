@@ -1,4 +1,4 @@
-Sorting Algorithm Project
+*Sorting Algorithm Project*
 This project provides implementations of three different sorting algorithms: Bubble Sort, Insertion Sort, and Selection Sort. These algorithms are used to sort arrays of integers in ascending order.
 
 Algorithms
