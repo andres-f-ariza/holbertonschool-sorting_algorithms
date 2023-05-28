@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Sorting Algorithm Project
+=======
+*Sorting Algorithm Project*
+>>>>>>> 86de2adc0a108032b8897281bd5fd68a13f88541
 This project provides implementations of three different sorting algorithms: Bubble Sort, Insertion Sort, and Selection Sort. These algorithms are used to sort arrays of integers in ascending order.
 
 ##Algorithms
@@ -37,3 +41,7 @@ If you're interested in learning more about sorting algorithms, here are some re
 Sorting Algorithm - Wikipedia
 Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
+<<<<<<< HEAD
+=======
+Feel free to customize this README.md file according to your project's specific requirements and add any additional sections or information as needed.
+>>>>>>> 86de2adc0a108032b8897281bd5fd68a13f88541
