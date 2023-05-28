@@ -25,7 +25,7 @@ This algorithm finds the smallest element in the unsorted part of the array and 
 To use the sorting algorithms provided in this project, follow these steps:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/sorting-algorithms.git
+git clone https://github.com/andres-f-ariza/sorting-algorithms.git
 
 2. Navigate to the project directory:
 cd sorting-algorithms
@@ -44,9 +44,9 @@ The implementations of the sorting algorithms in this project are based on well-
 
 If you're interested in learning more about sorting algorithms, here are some references you might find useful:
 
-Sorting Algorithm - Wikipedia
+- Sorting Algorithm - Wikipedia
 
-Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+- Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
 =======
 
